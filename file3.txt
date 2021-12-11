@@ -2,3 +2,4 @@ new addition
 merge from commandline
 
 
+this is stash example

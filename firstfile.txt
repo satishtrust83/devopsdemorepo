@@ -1,3 +1,6 @@
 this is my first file from local repo.
 
 colour yellow
+Bangalore
+Mumbai
+
